@@ -6,4 +6,5 @@ console.log('3333333');
 
 console.log(hello);
 
-console.log(afdfsdgsfgsfgfssssssssssssssss);
+console.log(afdfsdgsfgsfgfssssssssssssssssss);
+console.log(dfsdgsg);
